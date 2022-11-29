@@ -1,3 +1,3 @@
 # satya-docs
 
-http://satya-data.blogspot.com
+http://satya-dba.blogspot.com
